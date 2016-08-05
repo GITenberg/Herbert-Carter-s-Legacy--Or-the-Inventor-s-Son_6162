@@ -1,0 +1,35 @@
+_repo: Herbert-Carter-s-Legacy--Or-the-Inventor-s-Son_6162
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio
+    aliases:
+    - Starr, Julian
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Social classes -- Juvenile fiction'
+- !lcsh 'Country life -- New York (State) -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Mothers and sons -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Herbert Carter's Legacy; Or, the Inventor's Son
+url: http://www.gutenberg.org/ebooks/6162
